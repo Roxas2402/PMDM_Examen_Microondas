@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Microondas</string>
+
+    <string name="t1">150º</string>
+    <string name="t2">300º</string>
+    <string name="t3">600º</string>
+    <string name="t4">900º</string>
+
+    <string name="s1">30\'\'</string>
+    <string name="s2">1\'</string>
+    <string name="s3">5\'</string>
+    <string name="s4">15\'</string>
+    <string name="s5">30\'</string>
+
+    <string name="lbl1">Temperatura:</string>
+    <string name="lbl2">Tiempo:</string>
+</resources>
