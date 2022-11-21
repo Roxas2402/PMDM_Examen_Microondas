@@ -13,13 +13,11 @@ public class MainActivity extends AppCompatActivity {
     private Button btnT2;
     private Button btnT3;
     private Button btnT4;
-
     private Button btnS1;
     private Button btnS2;
     private Button btnS3;
     private Button btnS4;
     private Button btnS5;
-
     private TextView lblTemperatura;
     private TextView lblTiempo;
 
@@ -100,13 +98,11 @@ public class MainActivity extends AppCompatActivity {
         btnT2 = findViewById(R.id.btnT2Main);
         btnT3 = findViewById(R.id.btnT3Main);
         btnT4 = findViewById(R.id.btnT4Main);
-
         btnS1 = findViewById(R.id.btnS1Main);
         btnS2 = findViewById(R.id.btnS2Main);
         btnS3 = findViewById(R.id.btnS3Main);
         btnS4 = findViewById(R.id.btnS4Main);
         btnS5 = findViewById(R.id.btnS5Main);
-
         lblTemperatura = findViewById(R.id.lblTemperaturaMain);
         lblTiempo = findViewById(R.id.lblTiempoMain);
     }
